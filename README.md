@@ -2,9 +2,9 @@
 
 Remember when you typed **"Hello, world!"** in your first programming language? It's like your program's baby steps – small but super exciting.
 
-#### Your First "Hello, World!"
+#### My First "Hello, World!" program!
 
-I still smile when I think of my first time. I used C, and when **"Hello, world!"** popped up on the screen, it felt like magic. Simple words, big achievement!
+> I still smile when I think of my first time. I used C, and when **"Hello, world!"** popped up on the screen, it felt like magic. Simple words, big achievement!
 
 #### From Tiny Words to Big Beginnings
 
