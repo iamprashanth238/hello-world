@@ -1,4 +1,4 @@
-## "Hello, world!" - Where the Coding Adventure Begins
+## Saying "Hello, world!"
 
 Remember when you typed **"Hello, world!"** in your first programming language? It's like your program's baby steps – small but super exciting.
 
